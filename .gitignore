@@ -1,0 +1,14 @@
+# Ignore .txt files
+*.txt
+
+# Ignore .o files
+*.o
+
+# Ignore .d files
+*.d
+
+# Ignore swap files
+*.swp
+
+# Ignore prog
+prog
